@@ -1,7 +1,25 @@
 h1 {
-  text-align: center; color:pink; font-size:25px;}
+  color:purple;
+  font-size:40px;
+}
+h2 {
+  font-size:30px; color:green
+}
 p {
   text-align: center;
-  color:aqua;
+  color:Red;
   font-size:15px;
+}
+all{
+  padding: 25px 50px;
+  text-align:center;
+}
+body {
+    background-image:"mountains.jpg";
+}
+img {
+  padding: 25px 50px;
+  text-align:center;
+h3 {text-align:center
+
 }
