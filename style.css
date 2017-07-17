@@ -9,6 +9,9 @@ p {
   text-align: center;
   color:black;
   font-size:20px;
+  border: 1px solid black;
+  background-color: lightblue;
+  padding: 50px 30px 50px 90px;
 }
 all{
   padding: 25px 50px;
@@ -34,9 +37,4 @@ h2.serif {
       }
 h3.serif {
     font-family: "Georgia", Times, serif;
-        }
-div {
-    border: 1px solid black;
-    background-color: lightblue;
-    padding: 50px 30px 50px 90px;
         }
