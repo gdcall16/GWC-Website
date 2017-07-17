@@ -1,21 +1,21 @@
 h1 {
   color:purple;
-  font-size:40px;
+  font-size:50px;
 }
 h2 {
   font-size:30px; color:green
 }
 p {
   text-align: center;
-  color:Red;
-  font-size:15px;
+  color:black;
+  font-size:20px;
 }
 all{
   padding: 25px 50px;
   text-align:center;
 }
-body {
-    background-image:"mountains.jpg";
+ body {
+    background-color: lightpink;
 }
 img {
   padding: 25px 50px;
@@ -23,3 +23,20 @@ img {
 h3 {text-align:center
 
 }
+p.serif {
+    font-family: "Georgia", Times, serif;
+  }
+h1.serif {
+    font-family: "Georgia", Times, serif;
+    }
+h2.serif {
+    font-family: "Georgia", Times, serif;
+      }
+h3.serif {
+    font-family: "Georgia", Times, serif;
+        }
+div {
+    border: 1px solid black;
+    background-color: lightblue;
+    padding: 50px 30px 50px 90px;
+        }
