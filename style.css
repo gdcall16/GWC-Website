@@ -11,14 +11,14 @@ p {
   font-size:20px;
   border: 1px solid black;
   background-color: lightblue;
-  padding: 50px 30px 50px 90px;
+  padding: 50px 200px 90px;
 }
 all{
   padding: 25px 50px;
   text-align:center;
 }
- body {
-    background-color: lightpink;
+  body {
+    background-image: url("flowers.jpg")
 }
 img {
   padding: 25px 50px;
@@ -36,6 +36,8 @@ h2 {text-align:center
 h1 {text-align:center
 
 }
+
+
 p.serif {
     font-family: "Georgia", Times, serif;
   }
